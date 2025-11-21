@@ -12,16 +12,16 @@
 </p>
 
 
-## 🚀 About Me  
-- 🔭 Currently working on **SQA TESTING + UI/UX Projects**  
-- 🎨 Designing **responsive websites, UI/UX mockups, T-shirt graphics, and product branding**  
-- 💻 Developing **dynamic websites using PHP, Java , HTML, CSS, JS**  
-- 🌱 Learning: **SQA techniques (manual + automation) testing**  
-- 📬 Contact: **arishamumtaz340@gmail.com**  
-- 🌐 Portfolio:  
+##  About Me  
+-  Currently working on **SQA TESTING + UI/UX Projects**  
+-  Designing **responsive websites, UI/UX mockups, T-shirt graphics, and product branding**  
+-  Developing **dynamic websites using PHP, Java , HTML, CSS, JS**  
+-  Learning: **SQA techniques (manual + automation) testing**  
+-  Contact: **arishamumtaz340@gmail.com**  
+-  Portfolio:  
   - Web Dev → [arishadev.xyz](https://arishadev.netlify.app/)  
   - Design → [arishas-portfolio](https://arishas-portfolio-6a869d.webflow.io)  
-- 🔗 LinkedIn → [arisha-mumtaz](https://www.linkedin.com/in/arisha-mumtaz/)
+-  LinkedIn → [arisha-mumtaz](https://www.linkedin.com/in/arisha-mumtaz/)
 
 ---
 
@@ -37,14 +37,14 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma,webflow,github,bootstrap,java" alt="Skills" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arisha004&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha004&layout=compact&theme=tokyonight" />
@@ -52,9 +52,9 @@
 
 ---
 
-## 💡 Fun Fact  
+##  Fun Fact  
 I love turning *simple ideas* into **beautiful, functional, and user-friendly digital experiences.**
 
 ---
 
-### 🎯 Thank you for Visiting My Profile!
+###  Thank you for Visiting My Profile!
