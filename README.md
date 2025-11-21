@@ -39,7 +39,7 @@
 
 ##  Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma,webflow,github,bootstrap,java" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,webflow,github,bootstrap,java" alt="Skills" />
 </p>
 
 ---
