@@ -25,7 +25,7 @@
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arisha-mumtaz/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
