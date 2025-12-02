@@ -44,13 +44,7 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arisha004&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha004&layout=compact&theme=tokyonight" />
-</p>
 
----
 
 ##  Fun Fact  
 I love turning *simple ideas* into **beautiful, functional, and user-friendly digital experiences.**
