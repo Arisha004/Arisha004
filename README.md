@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arisha Mumtaz</h1>
-<h3 align="center"> SQA | UI/UX Designer </h3>
+<h3 align="center"> LEARNING SQA | UI/UX Designer </h3>
 
 <!-- Typing Animation -->
 <p align="center">
