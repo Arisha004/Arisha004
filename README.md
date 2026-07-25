@@ -1,54 +1,32 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.JPG" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Arisha Mumtaz</h1>
-<h3 align="center"> LEARNING SQA | UI/UX Designer </h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;UI%2FUX+Designer;SQA-TESTER;T-Shirt+%26+Graphic+Designer;PHP;I+Love+Designing+%26+Building+Real+Projects" alt="Typing Animation">
-</p>
+# 💫 About Me:
+- I'm currently working on FYP Forge, an AI mentor platform that gives university students personalized final year project plans and code templates — and UI/UX design + QA at Ally Solutions<br>- I'm looking to collaborate on AI-powered SaaS products — design, frontend build, or test automation<br>- I'm looking for help with scaling automation test suites (Playwright/Cypress) for larger, real-world codebases<br>- I'm currently learning Selenium and going deeper into Python for test automation<br>- Ask me about Figma design systems, building products with AI tools (Lovable, Replit, Cursor, Claude Code), or manual + automated QA<br>- Fun fact: I don't hand-code React . I direct AI tools to build it, and I've still shipped two Google Swag Prize–winning projects (FYP Forge and Aurora: Spirit Drift) that way
 
 
-##  About Me  
--  Currently working on **SQA TESTING + UI/UX Projects**  
--  Designing **responsive websites, UI/UX mockups, T-shirt graphics, and product branding**  
--  Developing **dynamic websites using PHP, Java , HTML, CSS, JS**  
--  Learning: **SQA techniques (manual + automation) testing**  
--  Contact: **arishamumtaz340@gmail.com**  
--  Portfolio:  
-  - Web Dev → [arishadev.xyz](https://arishadev.netlify.app/)  
-  - Design → [arishas-portfolio](https://arishas-portfolio-6a869d.webflow.io)  
--  LinkedIn → [arisha-mumtaz](https://www.linkedin.com/in/arisha-mumtaz/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arisha-mumtaz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arishamumtaz340@gmail.com)
 
----
+# 💻 Tech Stack:
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Arisha004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Arisha004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arisha004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##  Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/arisha-mumtaz/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="mailto:arishamumtaz340@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+## 🏆 GitHub Trophies
 
-##  Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,webflow,github,bootstrap,java" alt="Skills" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Arisha004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Arisha004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
-##  Fun Fact  
-I love turning *simple ideas* into **beautiful, functional, and user-friendly digital experiences.**
-
----
-
-###  Thank you for Visiting My Profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
