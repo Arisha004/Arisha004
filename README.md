@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on FYP Forge, an AI mentor platform that gives university students personalized final year project plans and code templates — and UI/UX design + QA at Ally Solutions<br>- I'm looking to collaborate on AI-powered SaaS products — design, frontend build, or test automation<br>- I'm looking for help with scaling automation test suites (Playwright/Cypress) for larger, real-world codebases<br>- I'm currently learning Selenium and going deeper into Python for test automation<br>- Ask me about Figma design systems, building products with AI tools (Lovable, Replit, Cursor, Claude Code), or manual + automated QA<br>- Fun fact: I don't hand-code React . I direct AI tools to build it, and I've still shipped two Google Swag Prize–winning projects (FYP Forge and Aurora: Spirit Drift) that way
+- I'm currently working on FYP Forge, an AI mentor platform that gives university students personalized final year project plans and code templates and UI/UX design + QA at Ally Solutions<br>- I'm looking to collaborate on AI-powered SaaS products — design, frontend build, or test automation<br>- I'm looking for help with scaling automation test suites (Playwright/Cypress) for larger, real-world codebases<br>- I'm currently learning Selenium and going deeper into Python for test automation<br>- Ask me about Figma design systems, building products with AI tools (Lovable, Replit, Cursor, Claude Code), or manual + automated QA<br>- Fun fact: I don't hand-code React . I direct AI tools to build it, and I've still shipped two Google Swag Prize–winning projects (FYP Forge and Aurora: Spirit Drift) that way
 
 
 ## 🌐 Socials:
@@ -14,18 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Arisha004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Arisha004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
